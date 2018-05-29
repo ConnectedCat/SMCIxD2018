@@ -1,0 +1,14 @@
+/*
+ * All the over-writes
+ *
+ */
+
+ @media( min-width: 992px ){
+  .modal-lg{
+    max-width: 990px;
+  }
+
+  .card {
+    min-height: 236px;
+  }
+ }
